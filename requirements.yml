@@ -1,5 +1,0 @@
-#collections:
-#- name: redhat.openshift
-#- name: vmware.vmware_rest
-#- name: community.general
-#- name: kubevirt.core
